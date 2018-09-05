@@ -25,6 +25,9 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
+a {color:#9ab973 /*#4AB893*/; text-decoration: none; font-weight: 200;}
+a:hover {color:#FF5050; text-decoration: none; font-weight: 200;}
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
